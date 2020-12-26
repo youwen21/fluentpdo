@@ -22,5 +22,6 @@
 	"require-dev": {
 		"phpunit/phpunit": "^8.0",
 		"envms/fluent-test": "^1.0"
-	}
+	},
+	"minimum-stability": "dev"
 }
